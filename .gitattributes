@@ -1,0 +1,4 @@
+# As of Sep-2026, IRAF Command Language scripts were not recognised by GitHub.
+# Multiple other GitHub languages however, use a ".cl" file extension.
+# GitHub Linguist must therefore be prevented from misidentifying IRAF content.
+*.cl linguist-detectable=false
